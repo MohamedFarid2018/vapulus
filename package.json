@@ -37,7 +37,7 @@
     "jade": "~1.11.0",
     "jsonwebtoken": "^8.5.1",
     "languagedetect": "^1.2.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "mime": "^2.4.0",
     "mime-types": "^2.1.22",
     "minio": "^7.0.5",
